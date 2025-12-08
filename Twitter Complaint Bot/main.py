@@ -5,8 +5,8 @@ from selenium.webdriver.common.keys import Keys
 
 PROMISED_DOWN = 80
 PROMISED_UP = 10
-TWITTER_EMAIL = 'bhatiasahil1515@gmail.com'
-TWITTER_PASSWORD = '@Wwesahil12'
+TWITTER_EMAIL = ''
+TWITTER_PASSWORD = ''
 
 
 
